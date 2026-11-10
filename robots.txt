@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unmpki.zyeemzia.com/sitemap.xml
